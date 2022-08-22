@@ -17,7 +17,7 @@
 <br>
 
 <p>🍌 Don't forget to get some Protein, Carbohydrates, and Tzuyu's Smile 🍌</p>
-<img align="right" src="https://thumbs.gfycat.com/LeadingDeliciousDrake-mobile.mp4" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
@@ -30,9 +30,6 @@
 
 ```
 
-<p align="center">
-  <a href="https://open.spotify.com/track/1RTW9UthqmZwr8Od6CH4i8?si=e9d4a51ee59c40c9">
-  </a>
-</p>
+
 
  
