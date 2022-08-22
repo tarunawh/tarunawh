@@ -1,6 +1,6 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+[![Actions Status](https://github.com/tarunawh/tarunawh/workflows/wakatime-stats/badge.svg)](https://github.com/tarunawh/tarunawh/actions)
+[![Actions Status](https://github.com/tarunawh/tarunawh/workflows/update-gh-activity/badge.svg)](https://github.com/tarunawh/tarunawh/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=tarunawh.tarunawh)
 
 <p align="center">
 <br/>
@@ -33,13 +33,4 @@ Hobbies     : Basketball, K-Pop, Movies, Korean Drama
   </a>
 </p>
 
-<p align="center">
-  <img src="https://guilyx.vercel.app/api/top-played">
-</p>
  
-```yaml
-section: spotify components info
-tutorial_path: guilyx/guilyx/how-to.md
-original_idea: natemoo-re
-improved_by: andyruwruw
-note: thanks to both of them!
