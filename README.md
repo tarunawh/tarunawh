@@ -17,7 +17,7 @@
 <br>
 
 <p>🍌 Don't forget to get some Protein, Carbohydrates, and Tzuyu's Smile 🍌</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://c.tenor.com/Kgi9jb0ldEcAAAAd/twice-tzuyu.gif"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
