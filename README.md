@@ -22,7 +22,7 @@
 <ul>
 <li>🔭 I’m currently learning on Geophysics, UGM
 <li>🧐 Learning all about <strong>Earth</strong>, <strong>Physics</strong>, and a bit of <strong>Computing</strong>.</li>
-<li>👨‍💻 Most of my daily live are available on <a href="https://www.instagram.com/taruna.wh/">Github</a>.</li>
+<li>👨‍💻 Most of my daily live are available on <a href="https://www.instagram.com/taruna.wh/">Instagram</a>.</li>
 <li>💬 Ping me about <strong>basketball, k-pop, marvel, and One Piece stuff</strong>.</li>
 <li>🎉 Fun Fact: I'm a huge fans of Twice 。</li>
 
