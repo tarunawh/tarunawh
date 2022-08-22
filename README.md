@@ -1,5 +1,3 @@
-[![Actions Status](https://github.com/tarunawh/tarunawh/workflows/wakatime-stats/badge.svg)](https://github.com/tarunawh/tarunawh/actions)
-[![Actions Status](https://github.com/tarunawh/tarunawh/workflows/update-gh-activity/badge.svg)](https://github.com/tarunawh/tarunawh/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=tarunawh.tarunawh)
 
 <p align="center">
