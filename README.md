@@ -26,7 +26,7 @@
 <li>🎉 Fun Fact: I'm a huge fans of Twice 。</li>
 
 And this is formal me :)
-<img align="left" src="![TARUNA WICAKSONO](https://user-images.githubusercontent.com/103823173/185932629-f507e38d-0ec7-469a-9216-3916c19a7fc1.JPG)"/>
+<img align="left" src="https://user-images.githubusercontent.com/103823173/185932629-f507e38d-0ec7-469a-9216-3916c19a7fc1.JPG"/>
 
 
 
