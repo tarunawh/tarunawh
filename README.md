@@ -23,7 +23,6 @@
 <li>🏃🏻 Most of my daily life are available on <a href="https://www.instagram.com/taruna.wh/">Instagram</a>.</li>
 <li>💬 Ping me about <strong>basketball, k-pop, marvel, and One Piece stuff</strong>.</li>
 <li>🎯 Fun Fact: I'm a huge fans of Twice 。</li>
-
 <li> reference: <li>
 <li> <a href="https://github.com/guilyx">Github-guilyx</a>.</li>
 <li> <a href="https://github.com/Spiderpig86">Github-Spiderpig86</a>.</li>
