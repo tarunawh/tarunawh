@@ -24,6 +24,7 @@
 <li>👨‍💻 Most of my daily life are available on <a href="https://www.instagram.com/taruna.wh/">Instagram</a>.</li>
 <li>💬 Ping me about <strong>basketball, k-pop, marvel, and One Piece stuff</strong>.</li>
 <li>🎉 Fun Fact: I'm a huge fans of Twice 。</li>
+<img align="right" src="https://i.pinimg.com/originals/3a/d3/0c/3ad30ce2330a2495544b43e73f3067e4.gif"/>
 
 
 
