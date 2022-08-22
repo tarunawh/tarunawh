@@ -29,12 +29,7 @@ Hobbies     : Basketball, K-Pop, Movies, Korean Drama
 ```
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
+  <a href="https://open.spotify.com/track/1RTW9UthqmZwr8Od6CH4i8?si=e9d4a51ee59c40c9">
   </a>
 </p>
 
