@@ -17,7 +17,7 @@
 <br>
 
 <p>🌻 Don't forget to get some Protein, Carbohydrates, and Tzuyu's Smile 🌻</p>
-<img align="right" src="https://i.pinimg.com/originals/3a/d3/0c/3ad30ce2330a2495544b43e73f3067e4.gif"/>
+<img align="right" src="https://c.tenor.com/Kgi9jb0ldEcAAAAd/twice-tzuyu.gif"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <li>🔭 I’m currently learning on Geophysics, UGM
 <li>🧐 Learning all about <strong>Earth</strong>, <strong>Physics</strong>, and a bit of <strong>Computing</strong>.</li>
