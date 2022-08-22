@@ -1,5 +1,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=tarunawh.tarunawh)
-<h2>Hello there!👋, I'm using GitHub! </a></h2>
+<h2>Hello there!👋 I'm using GitHub! </a></h2>
+<p> I'am currently a second year geophysics student at Gadjah Mada University and currently trying to get into programming. So, wish me luck! ✨
+  
 <p align="center">
 <br/>
 </a>
