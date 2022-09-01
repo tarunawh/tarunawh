@@ -23,15 +23,15 @@
 
 <h2>⚡️ Facts about me </h2>
 
-<li>👀 I’m currently learning on Geophysics, University of Gadjah Mada
+<li>👀 I’m currently learning on <a href="https://www.instagram.com/geofisikaugm/">Geophysics, University of Gadjah Mada</a>.</li>
 
 <li>📚 Learning all about <strong>Earth</strong>, <strong>Physics</strong>, and <strong>Computing</strong>.</li>
 
 <li>🏃🏻 Most of my daily life are available on <a href="https://www.instagram.com/taruna.wh/">Instagram</a>.</li>
 
-<li>💬 Ping me about <strong>basketball, k-pop, marvel, and One Piece stuff</strong>.</li>
+<li>💬 Ping me about <strong>Basketball, K-pop, Marvel, and One Piece stuff</strong>.</li>
 
-<li>🎯 Fun Fact: I'm a huge fans of Twice 。</li>
+<li>🎯 Fun Fact: I'm a huge fans of <a href="https://www.instagram.com/twicetagram/">TWICE</a>.</li> 
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunawh&show_icons=true&locale=en" alt="tarunawh" /></p>
