@@ -18,7 +18,7 @@
 <br>
 <a href="https://www.linkedin.com/in/taruna-wicaksono-harsetya-78b48123b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/taruna.wh/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<a href="https://open.spotify.com/user/31h5cptc4yhrbbxhbqtcini3qpjy?si=c8366ad7079a4e0c"><img src="https://img.shields.io/badge/-tzaruna%20-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/31h5cptc4yhrbbxhbqtcini3qpjy?si=c8366ad7079a4e0c" alt="Spotify Badge"></a></p>
+<a href="https://open.spotify.com/user/31h5cptc4yhrbbxhbqtcini3qpjy?si=c8366ad7079a4e0c"><img src="https://img.shields.io/badge/-Spotify%20-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/31h5cptc4yhrbbxhbqtcini3qpjy?si=c8366ad7079a4e0c" alt="Spotify Badge"></a></p>
 <br>
 
 <h2>⚡️ Facts about me </h2>
