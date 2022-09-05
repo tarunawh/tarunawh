@@ -38,13 +38,3 @@
 
 <h2>📷 Latest Post on Instagram</h2>
 <p><a href="https://www.instagram.com/taruna.wh/"><img src="https://user-images.githubusercontent.com/103823173/187917178-576f9e37-3eb5-4c8f-b21a-35d36fcd23f1.jpeg" alt="github-readme-instagram"></a></p>
-
-
-
-
-
-
-
-
-
- 
